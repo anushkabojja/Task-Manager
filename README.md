@@ -23,7 +23,7 @@ The Task Manager is a Python-based project designed to automatically generate an
 
 ## Folder Structure
 
-TaskManager/ ├── calculation/ │ ├── table.py # Logic for timetable generation │ ├── teacher_constraints.py # Teacher preferences, availability, and subject-specific assignments │ └── init.py # Initialization for the calculation module ├── classes/ │ ├── classs.py # Class representation │ ├── teacher.py # Teacher representation │ ├── student.py # Student representation and preferences │ └── init.py # Initialization for the classes module ├── display/ │ ├── print.py # Prints the generated timetable │ └── init.py # Initialization for the display module ├── data_persistence/ │ ├── database.py # Logic for storing timetables in a database or file │ └── init.py # Initialization for the data persistence module ├── optimization/ │ ├── optimization.py # Algorithms to balance workloads and optimize room usage │ └── init.py # Initialization for the optimization module ├── main/ │ ├── main.py # Main script to run the application │ └── init.py # Initialization for the main module └── README.md 
+TaskManager/ ├── calculation/ │ ├── table.py │ ├── teacher_constraints.py │ └── init.py ├── classes/ │ ├── classs.py │ ├── teacher.py │ ├── student.py │ └── init.py ├── display/ │ ├── print.py │ └── init.py ├── data_persistence/ │ ├── database.py │ └── init.py ├── optimization/ │ ├── optimization.py │ └── init.py ├── main/ │ ├── main.py │ └── init.py └── README.md
 
 
 ## Future Updates
