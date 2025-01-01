@@ -14,6 +14,4 @@ def main():
     
     timetable = generate_timetable(teachers)
     print_timetable(timetable)
-
-if __name__ == "__main__":
-    main()
+main()
