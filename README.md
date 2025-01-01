@@ -23,8 +23,7 @@ The Task Manager is a Python-based project designed to automatically generate an
 
 ## Folder Structure
 
-TaskManager/ ├── calculation/ │ ├── table.py # Logic for timetable generation │ └── init.py ├── classes/ │ ├── classs.py # Class representation │ ├── teacher.py # Teacher representation │ └── init.py ├── display/ │ ├── print.py # Prints the generated timetable │ └── init.py ├── main/ │ ├── main.py # Main script to run the application │ └── init.py └── README.md # Project documentation
-
+TaskManager/ ├── calculation/ │ ├── table.py # Logic for timetable generation │ └── init.py # Initialization for the calculation module ├── classes/ │ ├── classs.py # Class representation │ ├── teacher.py # Teacher representation │ └── init.py # Initialization for the classes module ├── display/ │ ├── print.py # Prints the generated timetable │ └── init.py # Initialization for the display module ├── main/ │ ├── main.py # Main script to run the application │ └── init.py # Initialization for the main module └── README.md 
 ## Future Updates
 
 - *Teacher Availability*: Integration of teacher availability for more accurate scheduling.
