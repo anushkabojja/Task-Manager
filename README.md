@@ -32,7 +32,7 @@ TaskManager/ ├── calculation/ │ ├── table.py # Logic for timetable
 - *GUI Interface*: Implementation of a graphical user interface (GUI) for easier user interaction.
 - *Advanced Conflict Resolution*: Enhanced algorithms for resolving complex scheduling conflicts.
 - *Web Application*: Development of a web-based version of the Task Manager for broader accessibility.
-- *Mobile App: Build a mobile app for teachers and students to view and manage their schedules.
-- *Scalability: Enhance performance to support larger institutions with more teachers and students.
+- Mobile App: Build a mobile app for teachers and students to view and manage their schedules.
+- Scalability: Enhance performance to support larger institutions with more teachers and students.
 
 
