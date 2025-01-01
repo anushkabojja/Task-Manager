@@ -38,9 +38,9 @@ TaskManager/
 Example
 Input:
 Number of teachers: 3
-Teacher 1: Alice, Subjects: Math, Physics
-Teacher 2: Bob, Subjects: Chemistry, Biology
-Teacher 3: Carol, Subjects: English, History
+Teacher 1: Gunjal Sir, Subjects: Math, Physics
+Teacher 2: Ghodke Sir, Subjects: Chemistry, Biology
+Teacher 3: Deshmukh Sir, Subjects: English, History
 Output:
 A weekly timetable displayed in the console, including:
 Lectures and practicals assigned to teachers.
