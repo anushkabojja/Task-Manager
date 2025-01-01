@@ -25,7 +25,9 @@ The Task Manager is a Python-based project designed to automatically generate an
 C:\Users\krish\OneDrive\Desktop\Timetable\structure.png
 
 ## Example
-![Timetable Output](https://github.com/krish/Timetable/blob/main/img/Output.png)
+![Timetable Output](https://raw.githubusercontent.com/krish/Timetable/main/img/Output.png)
+
+
 
 
 
