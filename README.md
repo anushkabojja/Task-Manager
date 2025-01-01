@@ -23,7 +23,6 @@ The Task Manager is a Python-based project designed to automatically generate an
 
 ## Folder Structure
 
-TaskManager/ ├── calculation/ │ ├── table.py │ ├── teacher_constraints.py │ └── init.py ├── classes/ │ ├── classs.py │ ├── teacher.py │ ├── student.py │ └── init.py ├── display/ │ ├── print.py │ └── init.py ├── data_persistence/ │ ├── database.py │ └── init.py ├── optimization/ │ ├── optimization.py │ └── init.py ├── main/ │ ├── main.py │ └── init.py └── README.md
 
 
 ## Future Updates
