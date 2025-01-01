@@ -22,10 +22,13 @@ The Task Manager is a Python-based project designed to automatically generate an
 - *Object-Oriented Programming (OOP)*: Used to model teachers, classes, and timetables.
 
 ## Folder Structure
-![structure](C:\Users\krish\OneDrive\Desktop\Timetable\structure.png)
+![structure](https://github.com/user-attachments/assets/f1ee27e9-dc6c-4799-9570-8747cc8e2eb2)
+
 
 ## Example
-![Timetable Output](https://raw.githubusercontent.com/krish/Timetable/main/img/Output.png)
+
+![Output](https://github.com/user-attachments/assets/5894d062-1eec-4943-a1df-7186ef3e4866)
+
 
 
 
